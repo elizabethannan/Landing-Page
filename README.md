@@ -1,2 +1,2 @@
-# Landing-Page
+# LandingPage
 class lesson landing page
